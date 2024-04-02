@@ -60,7 +60,5 @@
   		<sonar.organization>sreddy9676</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.login>1adeb2e93a9967a86ea4f8fa82ca6a1c0ddc9729</sonar.login>
-		
-		<sonar
 	</properties>	
 </project>
