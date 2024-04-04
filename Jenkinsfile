@@ -20,6 +20,7 @@ pipeline {
                         groupId: 'in.javahome', 
                         nexusUrl: '172.31.47.53:8081', 
                         nexusVersion: 'nexus3', 
+                        nexuspasswd: 'muni123',
                         protocol: 'http', 
                         repository: repoName, 
                         version: version
