@@ -59,6 +59,6 @@
 	<properties>
   		<sonar.organization>php-projec</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>0be4197d11062c330a86d02ae5dc15aee64d7c04</sonar.login>
+		<sonar.login>${SONAR_TOKEN}</sonar.login>
 	</properties>	
 </project>
